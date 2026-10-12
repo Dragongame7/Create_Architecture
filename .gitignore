@@ -1,0 +1,9 @@
+# Generated history and local LLM working copies
+/outputs/
+/work/
+/.build/
+/__pycache__/
+*.pyc
+~$*.xlsx
+*.tmp
+technical_error.txt

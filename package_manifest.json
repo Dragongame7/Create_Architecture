@@ -1,0 +1,78 @@
+{
+  "prepared_at": "2026-10-13T01:58:00+09:00",
+  "repository_url": "https://github.com/Dragongame7/Create_Architecture",
+  "visibility": "public",
+  "generation_run_id": "20261013_015800_114",
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 139,
+      "sha256": "07d63b467d078e0b1cadd85a8456e8aab628efd8505294bf7e6ebabf8d30e5b4"
+    },
+    {
+      "file": "architecture.html",
+      "bytes": 1774222,
+      "sha256": "6a11a1c338666f51804d43666e33b22b1d4960345fab3c838b47c1009458b54c"
+    },
+    {
+      "file": "ArchitectureGenerator.exe",
+      "bytes": 13116375,
+      "sha256": "a50c713684fa6c72b39673f90f918e6eff394274f72020984b88d70a25439854"
+    },
+    {
+      "file": "ELK-LICENSE.md",
+      "bytes": 14443,
+      "sha256": "637e81f4a1b6b4079535c499fca05e238cf7605c1ff5b76d60d7da7ce96700c9"
+    },
+    {
+      "file": "generation_manifest.json",
+      "bytes": 494,
+      "sha256": "b6990b3881d86281e067bfbd634d9444ff874a7dd8e6d386e3c17de08cac645a"
+    },
+    {
+      "file": "inventory.xlsx",
+      "bytes": 25276,
+      "sha256": "35b07cc96706eca0e0882d1815ba3e6611e37e88ea0a3fa61c91264fdfe32285"
+    },
+    {
+      "file": "LOCAL_AI_EXCEL_EDIT_PROMPT.md",
+      "bytes": 13727,
+      "sha256": "cf78f38181970157c1792a8e59f7adf7705f66a6ba67e105cd46b8329fc89bb5"
+    },
+    {
+      "file": "LOCAL_AI_HANDOFF_GUIDE.md",
+      "bytes": 23341,
+      "sha256": "27f7e4ace87354031df7a9ff2643eb2a1e5cfee1a61f62e6241a98562e17a9d9"
+    },
+    {
+      "file": "README.md",
+      "bytes": 6083,
+      "sha256": "663849e129666d26f1c9e89a09d9797c14c875b6228802eb49887daaa49c235a"
+    },
+    {
+      "file": "report.html",
+      "bytes": 19051,
+      "sha256": "3a2b475debe52dd7790ffd0686b11358e2a5fcb553293dc1450061b8fd320c23"
+    },
+    {
+      "file": "THIRD_PARTY_LICENSES.txt",
+      "bytes": 52673,
+      "sha256": "218fcd71c5c889aa9770fc9a295422b86cc3c8639875f6f13f3a10e7c0f7cec9"
+    },
+    {
+      "file": "UPLOAD_CONTENTS.md",
+      "bytes": 3102,
+      "sha256": "a860380045265ea24d9fd08d86f12ac0c54f346193ce111e775734aa747262cb"
+    },
+    {
+      "file": "validation.json",
+      "bytes": 21907,
+      "sha256": "bafaf47e1c38d317f6331847b3c31733ae58324f82ce2de79b0ad70a26ab28d2"
+    },
+    {
+      "file": "view_settings.json",
+      "bytes": 243,
+      "sha256": "1659cf07b07b1f209a00a74c4e89888bc9f631c6dcfa85284646c56f0d0aab68"
+    }
+  ]
+}

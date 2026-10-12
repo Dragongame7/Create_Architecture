@@ -1,0 +1,662 @@
+[
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 2,
+    "column": "verification_status",
+    "id": "comm_001",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 3,
+    "column": "verification_status",
+    "id": "comm_002",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 4,
+    "column": "verification_status",
+    "id": "comm_003",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 5,
+    "column": "verification_status",
+    "id": "comm_004",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 6,
+    "column": "verification_status",
+    "id": "comm_005",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 7,
+    "column": "verification_status",
+    "id": "comm_006",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 8,
+    "column": "verification_status",
+    "id": "comm_007",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 9,
+    "column": "verification_status",
+    "id": "comm_008",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 10,
+    "column": "verification_status",
+    "id": "comm_009",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 11,
+    "column": "verification_status",
+    "id": "comm_010",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 12,
+    "column": "verification_status",
+    "id": "comm_011",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 13,
+    "column": "verification_status",
+    "id": "comm_012",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 14,
+    "column": "verification_status",
+    "id": "comm_013",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 15,
+    "column": "verification_status",
+    "id": "comm_014",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 16,
+    "column": "verification_status",
+    "id": "comm_015",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 17,
+    "column": "verification_status",
+    "id": "comm_016",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 18,
+    "column": "verification_status",
+    "id": "comm_017",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 19,
+    "column": "verification_status",
+    "id": "comm_018",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 20,
+    "column": "verification_status",
+    "id": "comm_019",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 21,
+    "column": "verification_status",
+    "id": "comm_020",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 22,
+    "column": "verification_status",
+    "id": "comm_021",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 23,
+    "column": "verification_status",
+    "id": "comm_022",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 24,
+    "column": "verification_status",
+    "id": "comm_023",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 25,
+    "column": "verification_status",
+    "id": "comm_024",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 26,
+    "column": "verification_status",
+    "id": "comm_025",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 27,
+    "column": "verification_status",
+    "id": "comm_026",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 28,
+    "column": "verification_status",
+    "id": "comm_027",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 29,
+    "column": "verification_status",
+    "id": "comm_028",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 30,
+    "column": "verification_status",
+    "id": "comm_029",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 31,
+    "column": "verification_status",
+    "id": "comm_030",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 32,
+    "column": "verification_status",
+    "id": "comm_031",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 33,
+    "column": "verification_status",
+    "id": "comm_032",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 34,
+    "column": "verification_status",
+    "id": "comm_033",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 35,
+    "column": "verification_status",
+    "id": "comm_034",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 36,
+    "column": "verification_status",
+    "id": "comm_035",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 37,
+    "column": "verification_status",
+    "id": "comm_036",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 38,
+    "column": "verification_status",
+    "id": "comm_037",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 39,
+    "column": "verification_status",
+    "id": "comm_038",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 40,
+    "column": "verification_status",
+    "id": "comm_039",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 41,
+    "column": "verification_status",
+    "id": "comm_040",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 42,
+    "column": "verification_status",
+    "id": "comm_041",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 43,
+    "column": "verification_status",
+    "id": "comm_042",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 44,
+    "column": "verification_status",
+    "id": "comm_043",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 45,
+    "column": "verification_status",
+    "id": "comm_044",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 46,
+    "column": "verification_status",
+    "id": "comm_045",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 47,
+    "column": "verification_status",
+    "id": "comm_046",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 48,
+    "column": "verification_status",
+    "id": "comm_047",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 49,
+    "column": "verification_status",
+    "id": "comm_048",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 50,
+    "column": "verification_status",
+    "id": "comm_049",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 51,
+    "column": "verification_status",
+    "id": "comm_050",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 52,
+    "column": "verification_status",
+    "id": "comm_051",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 53,
+    "column": "verification_status",
+    "id": "comm_052",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 54,
+    "column": "verification_status",
+    "id": "comm_053",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 55,
+    "column": "verification_status",
+    "id": "comm_054",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 56,
+    "column": "verification_status",
+    "id": "comm_055",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 57,
+    "column": "verification_status",
+    "id": "comm_056",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 58,
+    "column": "verification_status",
+    "id": "comm_057",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 59,
+    "column": "verification_status",
+    "id": "comm_058",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 60,
+    "column": "verification_status",
+    "id": "comm_059",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 61,
+    "column": "verification_status",
+    "id": "comm_060",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 62,
+    "column": "verification_status",
+    "id": "comm_061",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 63,
+    "column": "verification_status",
+    "id": "comm_062",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 64,
+    "column": "verification_status",
+    "id": "comm_063",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 65,
+    "column": "verification_status",
+    "id": "comm_064",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 66,
+    "column": "verification_status",
+    "id": "comm_065",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  },
+  {
+    "level": "warning",
+    "sheet": "communications",
+    "row": 67,
+    "column": "verification_status",
+    "id": "comm_066",
+    "value": "unconfirmed",
+    "message": "未確認の通信情報があります。",
+    "fix": "実仕様を確認してから、値と確認状態を更新してください。"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "run_id": "20261013_015800_114",
+  "generated_at": "2026-10-13T01:58:00+09:00",
+  "source": "inventory.xlsx",
+  "generator_version": "0.1.0",
+  "status": "success",
+  "errors": 0,
+  "warnings": 66,
+  "source_sha256": "35b07cc96706eca0e0882d1815ba3e6611e37e88ea0a3fa61c91264fdfe32285",
+  "counts": {
+    "products": 11,
+    "endpoints": 58,
+    "communications": 66,
+    "relations": 72,
+    "features": 7,
+    "communication_features": 76,
+    "product_features": 12
+  }
+}

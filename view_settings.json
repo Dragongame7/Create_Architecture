@@ -1,0 +1,8 @@
+{
+  "title": "システム構成台帳",
+  "demo": true,
+  "default_kinds": ["functional", "authentication"],
+  "always_offer_kinds": ["logging", "monitoring", "backup", "time_sync", "unknown"],
+  "elk_version": "0.12.0",
+  "site_order": []
+}
